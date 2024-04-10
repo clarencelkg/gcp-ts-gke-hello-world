@@ -1,0 +1,8 @@
+node_modules
+node_modules
+.vscode
+*.docx
+kubeconfig
+package-lock.json
+pulumi.dev.yaml
+gke_gcloud_auth_plugin_cache
